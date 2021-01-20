@@ -1,0 +1,82 @@
+﻿TEST 1
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of a Bobcat Bar: 
+2
+Please enter the number of wrappers needed to exchange for a new bar: 
+2
+How, how much do you have? 
+16
+Good! Let me run the number ... 
+You first buy 8 bars.
+Then, you will get another 4 bars.
+Then, you will get another 2 bars.
+Then, you will get another 1 bars.
+-- program is finished running --
+
+
+
+
+TEST 2
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of a Bobcat Bar: 
+3
+Please enter the number of wrappers needed to exchange for a new bar: 
+4
+How, how much do you have? 
+5
+Good! Let me run the number ... 
+You first buy 1 bars.
+-- program is finished running --
+
+
+
+
+TEST 3
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of a Bobcat Bar: 
+6
+Please enter the number of wrappers needed to exchange for a new bar: 
+6
+How, how much do you have? 
+12
+Good! Let me run the number ... 
+You first buy 2 bars.
+-- program is finished running --
+
+
+
+
+
+
+TEST 4
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of a Bobcat Bar: 
+3
+Please enter the number of wrappers needed to exchange for a new bar: 
+5
+How, how much do you have? 
+30
+Good! Let me run the number ... 
+You first buy 10 bars.
+Then, you will get another 2 bars.
+-- program is finished running --
+
+
+
+
+
+
+TEST 5
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of a Bobcat Bar: 
+2
+Please enter the number of wrappers needed to exchange for a new bar: 
+2
+How, how much do you have? 
+17
+Good! Let me run the number ... 
+You first buy 8 bars.
+Then, you will get another 4 bars.
+Then, you will get another 2 bars.
+Then, you will get another 1 bars.
+-- program is finished running --
